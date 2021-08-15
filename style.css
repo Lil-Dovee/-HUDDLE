@@ -5,7 +5,7 @@
 }
 body{
     background: hsl(257, 40%, 49%);
-    background-image: url(./bg-desktop.svg);
+    background-image: url(/bg-desktop.svg);
     background-repeat:no-repeat ;
     margin: 2em 0 0 2em;
     scroll-behavior: smooth;
