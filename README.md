@@ -49,7 +49,7 @@ FlexBox
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Lil-Dovee](https://www.frontendmentor.io/profile/Lil-Dovee)
+- Twitter - [@Lil_Dovee](https://www.twitter.com/Lil_Dovee)
 
 
